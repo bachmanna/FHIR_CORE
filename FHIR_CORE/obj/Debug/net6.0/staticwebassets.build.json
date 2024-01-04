@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b3C4I4gyv9WhApmV4ltIHWKIRX0Wp7Rh6nztiAwKFcc=",
+  "Source": "FHIR_CORE",
+  "BasePath": "_content/FHIR_CORE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
